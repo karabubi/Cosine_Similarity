@@ -69,13 +69,13 @@ public class Converter {
 
 			i++;
 		}
-
+		m.write(System.out, "TURTLE");
 		Iterator<Statement> it = m.listStatements();
 		while (it.hasNext())
-			System.out.println(it.next());
-
+			//System.out.println(it.next());
+		
 		reader.close();
-
+		
 		try {
 			FileOutputStream fout = new FileOutputStream(
 					"output.rdf");
@@ -83,6 +83,7 @@ public class Converter {
 		} catch (IOException e) {
 			System.out.println("Exception caught" + e.getMessage());
 		}
+		
 
 	}
 
