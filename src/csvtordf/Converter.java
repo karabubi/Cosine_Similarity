@@ -69,6 +69,7 @@ public class Converter {
 
 			i++;
 		}
+		//create turtle
 		m.write(System.out, "TURTLE");
 		Iterator<Statement> it = m.listStatements();
 		while (it.hasNext())
