@@ -4,14 +4,12 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
-import java.util.Iterator;
 
 import au.com.bytecode.opencsv.CSVReader;
 
 import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.ModelFactory;
 import com.hp.hpl.jena.rdf.model.Resource;
-import com.hp.hpl.jena.rdf.model.Statement;
 
 public class Converter {
 
@@ -69,20 +67,24 @@ public class Converter {
 
 			i++;
 		}
-		//create turtle
+		// print turtle file
 		m.write(System.out, "TURTLE");
-		Iterator<Statement> it = m.listStatements();
-		while (it.hasNext())
-			//System.out.println(it.next());
+		
+		// uncomment these to print all statements
+//		Iterator<Statement> it = m.listStatements();
+//		while (it.hasNext())
+//			System.out.println(it.next());
 		
 		reader.close();
 		
+		// save to file
 		try {
 			FileOutputStream fout = new FileOutputStream(
-					"output.rdf");
-			m.write(fout);
+					"output.ttl");
+			m.write(fout, "TURTLE");
 		} catch (IOException e) {
 			System.out.println("Exception caught" + e.getMessage());
+			e.printStackTrace();
 		}
 		
 

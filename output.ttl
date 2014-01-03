@@ -1,0 +1,1774 @@
+<http://aksw.org/Saleh/resource/Drug40>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cromolyn" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Cromolyn" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class38>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Anti-infectives" .
+
+<http://aksw.org/Saleh/resource/Drug19>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Repaglinide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Prandin" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug149>
+        a       <http://aksw.org/Saleh/resource/Class148> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Etanercept" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Enbrel�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug128>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tramadol ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "ConZip" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug107>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fentanyl lollipop" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Actiq�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug90>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac Potassium" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Zipsor" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug69>
+        a       <http://aksw.org/Saleh/resource/Class69> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Marijuana/dronabinol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Marinol�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug48>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Zafirlukast" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Accolate�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug27>
+        a       <http://aksw.org/Saleh/resource/Class23> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tiagabine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Gabitril�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug136>
+        a       <http://aksw.org/Saleh/resource/Class136> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diphenhydramine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Benadryl" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Y-OTC" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for insomnia)" .
+
+<http://aksw.org/Saleh/resource/Drug115>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Morphine ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Avinza�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug98>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ketorolac" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Toradol�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for oral form)" .
+
+<http://aksw.org/Saleh/resource/Drug77>
+        a       <http://aksw.org/Saleh/resource/Class76> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Carisoprodol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Soma�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class75>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gout medications" .
+
+<http://aksw.org/Saleh/resource/Drug56>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diazepam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Valium" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug35>
+        a       <http://aksw.org/Saleh/resource/Class30> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prazosin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Minipress" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug14>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Insulin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Humulin" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug144>
+        a       <http://aksw.org/Saleh/resource/Class143> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac Sodium Gel" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Voltaren� Gel" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug123>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pentazocine/Naloxone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Talwin NX" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug102>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Buprenorphine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Suboxone�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for pain)" .
+
+<http://aksw.org/Saleh/resource/Drug8>
+        a       <http://aksw.org/Saleh/resource/Class1> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sertraline" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Zoloft�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for pain)" .
+
+<http://aksw.org/Saleh/resource/Drug85>
+        a       <http://aksw.org/Saleh/resource/Class85> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dantrolene" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Dantrium�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class83>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Muscle relaxants (Antispasmodics)" .
+
+<http://aksw.org/Saleh/resource/Drug64>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Triazolam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Halcion " ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug43>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ipratropium" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Atrovent�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug22>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sitagliptin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Januvia" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug131>
+        a       <http://aksw.org/Saleh/resource/Class130> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Esomeprazole" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Nexium�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug110>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fentanyl transmucosal" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Abstral" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class129>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Opioids & related entities" .
+
+<http://aksw.org/Saleh/resource/Drug93>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac Sodium Gel" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Voltaren� Gel" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug72>
+        a       <http://aksw.org/Saleh/resource/Class72> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "\"Clonidine, intrathecal\"" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Duraclon�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes " ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug51>
+        a       <http://aksw.org/Saleh/resource/Class50> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Risperidone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Risperdal" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug30>
+        a       <http://aksw.org/Saleh/resource/Class30> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliskiren" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Tekturna" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug139>
+        a       <http://aksw.org/Saleh/resource/Class136> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Zolpidem" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Edluar SL" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug118>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxycodone ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "OxyContin�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug3>
+        a       <http://aksw.org/Saleh/resource/Class1> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Escitalopram" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Lexapro�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for pain)" .
+
+<http://aksw.org/Saleh/resource/Drug80>
+        a       <http://aksw.org/Saleh/resource/Class76> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diazepam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Valium" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug59>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lorazepam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Ativan" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug38>
+        a       <http://aksw.org/Saleh/resource/Class38> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Linezolid" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Zyvox" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug17>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nateglinide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Starlix" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug147>
+        a       <http://aksw.org/Saleh/resource/Class143> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lidocaine patch" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Lidoderm�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug126>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Propoxyphene/acetamin." ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Darvocet�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug105>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fentanyl buccal" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Fentora�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug88>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac Epolamine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Flector patch" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class86>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Muscle relaxants (Antispasticity/ Antispasmodics)" .
+
+<http://aksw.org/Saleh/resource/Drug67>
+        a       <http://aksw.org/Saleh/resource/Class65> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Botulinum toxin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Myobloc�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class65>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Botulinum toxin" .
+
+<http://aksw.org/Saleh/resource/Drug46>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmeterol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Serevent�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug25>
+        a       <http://aksw.org/Saleh/resource/Class23> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Levetiracetam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Keppra�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class23>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Anti-epilepsy drugs (AEDs)" .
+
+<http://aksw.org/Saleh/resource/Drug134>
+        a       <http://aksw.org/Saleh/resource/Class130> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pantoprazole" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Protonix�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug113>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Meperidine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Demerol�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug96>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Indomethacin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Indocin�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug75>
+        a       <http://aksw.org/Saleh/resource/Class75> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colchicine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Colchicine" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class73>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dopamine agonists" .
+
+<http://aksw.org/Saleh/resource/Drug54>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Clonazepam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Klonopin" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class52>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Benzodiazepines" .
+
+<http://aksw.org/Saleh/resource/Drug33>
+        a       <http://aksw.org/Saleh/resource/Class30> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hydralazine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Apresoline" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug12>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glipizide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Glucotrol" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug142>
+        a       <http://aksw.org/Saleh/resource/Class141> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Modafinil" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Provigil�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug121>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxymorphone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Opana�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug100>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Naproxen ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Naprelan�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug6>
+        a       <http://aksw.org/Saleh/resource/Class1> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Milnacipran" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Savella/Ixel�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug83>
+        a       <http://aksw.org/Saleh/resource/Class83> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Carisoprodol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Soma�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug62>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Quazepam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Doral" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug41>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Formoterol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Foradil�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class39>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asthma medications" .
+
+<http://aksw.org/Saleh/resource/Drug20>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosiglitazone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Avandia" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug150>
+        a       <http://aksw.org/Saleh/resource/Class148> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infliximab" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Remicade�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class148>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tumor necrosis factor (TNF) modifiers" .
+
+<http://aksw.org/Saleh/resource/Drug129>
+        a       <http://aksw.org/Saleh/resource/Class129> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ziconotide (morphine pump)" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Prialt�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug108>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fentanyl nasal spray" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Lazanda" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug91>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac Sodium" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Voltaren�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug70>
+        a       <http://aksw.org/Saleh/resource/Class69> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nabilone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Cesamet�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug49>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Zileuton" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Zyflo�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug28>
+        a       <http://aksw.org/Saleh/resource/Class23> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Topiramate" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Topamax�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug137>
+        a       <http://aksw.org/Saleh/resource/Class136> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Promethazine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Phenergan" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for insomnia)" .
+
+<http://aksw.org/Saleh/resource/Drug116>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Morphine ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Kadian�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug99>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ketorolac nasal spray" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Sprix" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug1>
+        a       <http://aksw.org/Saleh/resource/Class1> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bupropion" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Wellbutrin�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for pain)" .
+
+<http://aksw.org/Saleh/resource/Drug78>
+        a       <http://aksw.org/Saleh/resource/Class76> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclobenzaprine ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Amrix�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class76>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Muscle relaxants" .
+
+<http://aksw.org/Saleh/resource/Drug57>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estazolam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "ProSom" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug36>
+        a       <http://aksw.org/Saleh/resource/Class30> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spironolactone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Aldactone" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug15>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Insulin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Novolin" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug145>
+        a       <http://aksw.org/Saleh/resource/Class143> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dimethylsulfoxide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "DMSO" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class143>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Topical analgesics" .
+
+<http://aksw.org/Saleh/resource/Drug124>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Propoxyphene hcl" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Darvon�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug103>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Buprenorphine (transdermal)" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Butrans�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug9>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acarbose" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Precose" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class1>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antidepressants" .
+
+<http://aksw.org/Saleh/resource/Drug86>
+        a       <http://aksw.org/Saleh/resource/Class86> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Benzodiazepines" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "N/A" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug65>
+        a       <http://aksw.org/Saleh/resource/Class65> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Botulinum toxin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Botox�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug44>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Montelukast" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Singulair�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug23>
+        a       <http://aksw.org/Saleh/resource/Class23> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lacosamide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Vimpat�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug132>
+        a       <http://aksw.org/Saleh/resource/Class130> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Esomeprazole/Naproxen" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Vimovo" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class130>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPI (Proton Pump Inhibitor)" .
+
+<http://aksw.org/Saleh/resource/Drug111>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hydrocodone/ibuprofen" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Vicoprofen�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class9>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antidiabetics" .
+
+<http://aksw.org/Saleh/resource/Drug94>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac Sodium topical" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Pennsaid�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug73>
+        a       <http://aksw.org/Saleh/resource/Class73> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pramipexole" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Mirapex�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug52>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alprazolam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Xanax" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class50>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Atypical antipsychotics" .
+
+<http://aksw.org/Saleh/resource/Drug31>
+        a       <http://aksw.org/Saleh/resource/Class30> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Clonidine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Catapres" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug10>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Exenatide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Byetta" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug140>
+        a       <http://aksw.org/Saleh/resource/Class136> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Zolpidem ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Ambien CR" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug119>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxycodone/aspirin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Percodan�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug4>
+        a       <http://aksw.org/Saleh/resource/Class1> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fluoxetine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Prozac�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for pain)" .
+
+<http://aksw.org/Saleh/resource/Drug81>
+        a       <http://aksw.org/Saleh/resource/Class76> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Meprobamate" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Miltown" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug60>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Midazolam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Versed" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug39>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Albuterol oral tablet" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Albuterol" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug18>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pioglitazone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Actos" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug148>
+        a       <http://aksw.org/Saleh/resource/Class148> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adalimumab" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Humira�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug127>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tapentadol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Nucynta�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug106>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fentanyl buccal film" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Onsolis�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug89>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac Potassium" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Cataflam�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class87>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NSAIDs " .
+
+<http://aksw.org/Saleh/resource/Drug68>
+        a       <http://aksw.org/Saleh/resource/Class65> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Botulinum toxin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Xeomin" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug47>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Theophylline" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Slo-Bid�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug26>
+        a       <http://aksw.org/Saleh/resource/Class23> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Phenytoin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Dilantin�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug135>
+        a       <http://aksw.org/Saleh/resource/Class130> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rabeprazole" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Aciphex�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug114>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Methadone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Methadose�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug97>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Indomethacin ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Indocin SR�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug76>
+        a       <http://aksw.org/Saleh/resource/Class76> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Benzodiazepines" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "N/A" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug55>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Clorazepate" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Tranxene" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug34>
+        a       <http://aksw.org/Saleh/resource/Class30> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Minoxidil" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Loniten" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug13>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glyburide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Glynase" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug143>
+        a       <http://aksw.org/Saleh/resource/Class143> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "\"Capsaicin, topical\"" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Qutenza" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class141>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Stimulants (adjunctive pain medication)" .
+
+<http://aksw.org/Saleh/resource/Drug122>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pentazocine lactate" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Talwin" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug101>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Piroxicam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Feldene�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug7>
+        a       <http://aksw.org/Saleh/resource/Class1> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Paroxetine " ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Paxil" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug84>
+        a       <http://aksw.org/Saleh/resource/Class83> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Orphenadrine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "\"Norflex�, Banflex�, Antiflex�, Mio-Rel�, Orphenate\"" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug63>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Temazepam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Restoril" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug42>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Indacaterol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Arcapta�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug21>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Saxagliptin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Onglyza" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug130>
+        a       <http://aksw.org/Saleh/resource/Class130> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dexlansoprazole " ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Dexilant�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug109>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fentanyl sublingual spray" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Subsys�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug92>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac Sodium ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Voltaren-XR�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug71>
+        a       <http://aksw.org/Saleh/resource/Class69> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tetrahydrocannabinol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "THC/ dronabinol" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class69>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cannabinoids" .
+
+<http://aksw.org/Saleh/resource/Drug50>
+        a       <http://aksw.org/Saleh/resource/Class50> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Quetiapine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Seroquel" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug29>
+        a       <http://aksw.org/Saleh/resource/Class23> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Zonisamide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Zonegran�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug138>
+        a       <http://aksw.org/Saleh/resource/Class136> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trazodone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Desyrel" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N (for insomnia)" .
+
+<http://aksw.org/Saleh/resource/Class136>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sedative-hypnotics" .
+
+<http://aksw.org/Saleh/resource/Drug117>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxycodone" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Oxecta" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug2>
+        a       <http://aksw.org/Saleh/resource/Class1> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Citalopram" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Celexa" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug79>
+        a       <http://aksw.org/Saleh/resource/Class76> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dantrolene" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Dantrium�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug58>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Flurazepam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Dalmane" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug37>
+        a       <http://aksw.org/Saleh/resource/Class30> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Terazosin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Hytrin" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug16>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Miglitol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Glyset" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug146>
+        a       <http://aksw.org/Saleh/resource/Class143> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "\"Ketamine, topical\"" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Ketamine" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug125>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Propoxyphene napsylate" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Darvon-N�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug104>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Butalbital (a barbiturate)" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Fioricet�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class102>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Opioids" .
+
+<http://aksw.org/Saleh/resource/Drug87>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Voltaren�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class85>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Muscle relaxants (Antispasticity drugs)" .
+
+<http://aksw.org/Saleh/resource/Drug66>
+        a       <http://aksw.org/Saleh/resource/Class65> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Botulinum toxin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Dysport" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug45>
+        a       <http://aksw.org/Saleh/resource/Class39> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Omalizumab" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Xolair�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug24>
+        a       <http://aksw.org/Saleh/resource/Class23> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lamotrigine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Lamictal�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug133>
+        a       <http://aksw.org/Saleh/resource/Class130> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Famotidine (H2 blocker)/ Ibuprofen" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Duexis�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug112>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hydromorphone ER" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Exalgo" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug95>
+        a       <http://aksw.org/Saleh/resource/Class87> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diclofenac/ misoprostol" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Arthrotec�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug74>
+        a       <http://aksw.org/Saleh/resource/Class73> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ropinirole" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Requip�" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class72>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Central adrenergic agonists" .
+
+<http://aksw.org/Saleh/resource/Drug53>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlordiazepoxide" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Librium" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug32>
+        a       <http://aksw.org/Saleh/resource/Class30> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Doxazosin" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Cardura" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Class30>
+        a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antihypertensives" .
+
+<http://aksw.org/Saleh/resource/Drug11>
+        a       <http://aksw.org/Saleh/resource/Class9> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glimepiride" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Amaryl" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug141>
+        a       <http://aksw.org/Saleh/resource/Class141> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Armodafinil" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Nuvigil" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "No" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug120>
+        a       <http://aksw.org/Saleh/resource/Class102> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxycodone/ibuprofen" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Combunox" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug5>
+        a       <http://aksw.org/Saleh/resource/Class1> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fluvoxamine " ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Luvox " ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug82>
+        a       <http://aksw.org/Saleh/resource/Class76> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Orphenadrine" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "\"Norflex�, Banflex�, Antiflex�, Mio-Rel�, Orphenate\"" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
+
+<http://aksw.org/Saleh/resource/Drug61>
+        a       <http://aksw.org/Saleh/resource/Class52> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxazepam" ;
+        <http://aksw.org/Saleh/property/brandName>
+                "Serax" ;
+        <http://aksw.org/Saleh/property/genericEquivalency>
+                "Yes" ;
+        <http://aksw.org/Saleh/property/status>
+                "N" .
