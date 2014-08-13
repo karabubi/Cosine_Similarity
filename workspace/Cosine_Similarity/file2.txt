@@ -1,0 +1,1 @@
+Picking a Reader really depends on what you need the content of the file for. If the file is small(ish) and you need it all, it's faster (benchmarked by us: 1.8-2x) to just use a FileReader and read everything (or at least large enough chunks). If you're processing it line by line then go for the BufferedReader Ahmed
